@@ -14,7 +14,7 @@ import math
 import random
 
 # Create an MCP server
-mcp = FastMCP("Calculator")
+mcp = FastMCP("Calculator Bot")
 
 # Add an addition tool
 @mcp.tool()
