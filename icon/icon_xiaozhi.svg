@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background circle -->
+    <circle cx="128" cy="128" r="120" fill="#667eea" opacity="0.1"/>
+
+    <!-- Brain outline -->
+    <path d="M80,100 Q70,80 80,60 Q100,40 128,40 Q156,40 176,60 Q186,80 176,100
+             Q186,120 176,140 Q156,160 128,160 Q100,160 80,140 Q70,120 80,100 Z"
+          fill="#4c51bf" stroke="#4c51bf" stroke-width="2"/>
+
+    <!-- Brain lobes -->
+    <circle cx="100" cy="90" r="15" fill="#667eea" opacity="0.7"/>
+    <circle cx="156" cy="90" r="15" fill="#667eea" opacity="0.7"/>
+    <circle cx="100" cy="130" r="12" fill="#7f9cf5" opacity="0.7"/>
+    <circle cx="156" cy="130" r="12" fill="#7f9cf5" opacity="0.7"/>
+
+    <!-- Circuit lines -->
+    <path d="M60,80 L20,80 L20,120 L60,120" stroke="#9f7aea" stroke-width="3" fill="none"/>
+    <path d="M196,80 L236,80 L236,120 L196,120" stroke="#9f7aea" stroke-width="3" fill="none"/>
+    <path d="M128,180 L128,220" stroke="#9f7aea" stroke-width="3"/>
+    <path d="M108,200 L148,200" stroke="#9f7aea" stroke-width="3"/>
+
+    <!-- AI text -->
+    <text x="128" y="110" text-anchor="middle" font-family="Arial, sans-serif"
+          font-size="24" font-weight="bold" fill="white">AI</text>
+    <text x="128" y="240" text-anchor="middle" font-family="Arial, sans-serif"
+          font-size="14" fill="#4c51bf">LLM</text>
+</svg>

@@ -3,6 +3,11 @@ from fastmcp import FastMCP
 import sys
 import logging
 
+# --- TAMBAHKAN BARIS INI ---
+# Mengatur agar log INFO ditampilkan dan diarahkan ke stderr (terminal)
+logging.basicConfig(level=logging.INFO, stream=sys.stderr, format='%(message)s')
+# ---------------------------
+
 logger = logging.getLogger('Calculator')
 
 # Fix UTF-8 encoding for Windows console

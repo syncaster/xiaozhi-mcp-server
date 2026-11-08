@@ -1,0 +1,337 @@
+[
+    {
+        "waktu": "2026-07-13 01:37:51",
+        "pertanyaan": "modul PBO 2024",
+        "jawaban_sistem": "Maaf, tidak ditemukan informasi mengenai 'modul PBO 2024' di dalam semua modul."
+    },
+    {
+        "waktu": "2026-07-13 01:37:51",
+        "pertanyaan": "PBO",
+        "jawaban_sistem": "Informasi ditemukan: [modul-pbo-2024.pdf - Hal 8]: ............................................................................ 20 Tabel 5.1 Daftar Nilai PBO Mahasiswa ........................................................................... 41 Tabel 5.2 Konversi Nilai Akhir ke Huruf .......................................................................... 41 Tabel 6.1 Modifier Java .................................................................... | [modul-pbo-2024.pdf - Hal 54]: ...source code 5.2, 5.3 berikut disertai penjelasannya! 5.5 Tugas 1. Diketahui daftar nilai matakuliah PBO untuk 3 mahasiswa sebagaimana ditunjukkan pada tabel dibawah ini: Tabel 5.1 Daftar Nilai PBO Mahasiswa Mahasiswa Nilai Tugas UTS UAS Ani 50 60 70 Tono 70 75 87 Budi 89 90 90 Selanjutnya akan dicari nilai akhir untuk setiap mahasiswa yang merupakan nilai rata-rata dari ketiga komponen penilaian (... | [02. Basic Laravel - PemwebLan.pdf - Hal 31]: ...ller Ingat: penamaan class disarankan huruf depan menggunakan huruf Capital Masih ingat pemrograman PBO, apa fungsi extends?"
+    },
+    {
+        "waktu": "2026-07-13 01:37:52",
+        "pertanyaan": "Class Object PBO",
+        "jawaban_sistem": "Maaf, tidak ditemukan informasi mengenai 'Class Object PBO' di dalam semua modul."
+    },
+    {
+        "waktu": "2026-07-13 01:37:53",
+        "pertanyaan": "enkapsulasi",
+        "jawaban_sistem": "Maaf, tidak ditemukan informasi mengenai 'enkapsulasi' di dalam semua modul."
+    },
+    {
+        "waktu": "2026-07-13 01:37:54",
+        "pertanyaan": "penyeleksian kondisi",
+        "jawaban_sistem": "Informasi ditemukan: [modul-pbo-2024.pdf - Hal 4]: ......................................................................................... 15 MODUL III Penyeleksian Kondisi .................................................................................... 16 3.1 Tujuan Pembelajaran ......................................................................................... 16 3.2 sSeleksi Kondisi ........................................................ | [modul-pbo-2024.pdf - Hal 10]: ... Logika ..................................................................... 15 Gambar 3.1 Diagram Penyeleksian Kondisi ................................................................... 16 Gambar 3.2 Flowchart Tekanan Darah ........................................................................... 17 Gambar 3.3 Source Code Tekanan Darah ............................................................ | [modul-pbo-2024.pdf - Hal 29]: 16 MODUL III Penyeleksian Kondisi 3.1 Tujuan Pembelajaran 1) Praktikan mengenal beberapa perintah untuk melakukan seleksi kondisi. 2) Praktikan mampu menggunakan berbagai conditional statement dalam berbagai kebutuhan. 3.2 sSeleksi Kondisi Dalam pemrograman seringkali dibutuhkan eksekusi blok pernyataan jika dip..."
+    },
+    {
+        "waktu": "2026-07-13 01:37:54",
+        "pertanyaan": "switch case",
+        "jawaban_sistem": "Maaf, tidak ditemukan informasi mengenai 'switch case' di dalam semua modul."
+    },
+    {
+        "waktu": "2026-07-13 01:37:54",
+        "pertanyaan": "MODUL",
+        "jawaban_sistem": "Informasi ditemukan: [modul-pbo-2024.pdf - Hal 1]: Modul Praktikum Pemrograman Berorientasi Objek Saiful Nur Budiman S.kom., M.kom UNIVERSITAS ISLAM BALITAR FAKULTAS TEKNIK INFORMATIKA 2022/ 2023 | [modul-pbo-2024.pdf - Hal 4]: i DAFTAR ISI MODUL I Installasi Netbeans dan Setting Path ................................................................ 1 1.1 Tujuan Pembelajaran ........................................................................................... 1 1.2 Java ................................................................ | [modul-pbo-2024.pdf - Hal 5]: ................................................................................................... 24 MODUL IV Perulangan.................................................................................................... 26 4.1 Tujuan Pembelajaran ......................................................................................... 26 4.2 Looping ................................................... | [modul-pbo-2024.pdf - Hal 6]: ................................................................................................... 50 Modul VII Inheritance ...................................................................................................... 52 7.1 Tujuan Pembelajaran ......................................................................................... 52 7.2 Inheritance atau Pewarisan ..........................."
+    },
+    {
+        "waktu": "2026-07-13 01:37:55",
+        "pertanyaan": "MODUL I Installasi Netbeans",
+        "jawaban_sistem": "Informasi ditemukan: [modul-pbo-2024.pdf - Hal 4]: i DAFTAR ISI MODUL I Installasi Netbeans dan Setting Path ................................................................ 1 1.1 Tujuan Pembelajaran ........................................................................................... 1 1.2 Java ................................................................ | [modul-pbo-2024.pdf - Hal 14]: 1 MODUL I Installasi Netbeans dan Setting Path 1.1 Tujuan Pembelajaran 1) Praktikan dapat melakukan instalasi dan setting Java Development Kit. 2) Praktikan dapat menggunakan Netbeans sebagai editor pemrograman. 3) Praktikan dapat menjalankan (eksekusi) program Java sederhana yang ditulis dengan edito..."
+    },
+    {
+        "waktu": "2026-07-13 01:37:56",
+        "pertanyaan": "MODUL II",
+        "jawaban_sistem": "Informasi ditemukan: [modul-pbo-2024.pdf - Hal 4]: ................................................................................................... 15 MODUL III Penyeleksian Kondisi .................................................................................... 16 3.1 Tujuan Pembelajaran ......................................................................................... 16 3.2 sSeleksi Kondisi .............................................. | [modul-pbo-2024.pdf - Hal 29]: 16 MODUL III Penyeleksian Kondisi 3.1 Tujuan Pembelajaran 1) Praktikan mengenal beberapa perintah untuk melakukan seleksi kondisi. 2) Praktikan mampu menggunakan berbagai conditional statement dalam berbagai kebutuhan. 3.2 sSeleksi Kondisi Dalam pemrograman seringkali dibutuhkan eksekusi blok pernyataa..."
+    },
+    {
+        "waktu": "2026-07-13 01:37:56",
+        "pertanyaan": "MODUL IV Perulangan",
+        "jawaban_sistem": "Informasi ditemukan: [modul-pbo-2024.pdf - Hal 5]: ................................................................................................... 24 MODUL IV Perulangan.................................................................................................... 26 4.1 Tujuan Pembelajaran ......................................................................................... 26 4.2 Looping ................................................... | [modul-pbo-2024.pdf - Hal 39]: 26 MODUL IV Perulangan 4.1 Tujuan Pembelajaran 1) Praktikan mengenal beberapa perintah untuk perulangan. 2) Praktikan mampu menggunakan berbagai bentuk dari perulangan untuk menyelesaikan suatu permasalahan pada pemrograman. 4.2 Looping Pada pemrograman pastilah ada suatu blok pernyatan yang dieksekusi..."
+    },
+    {
+        "waktu": "2026-07-13 01:37:57",
+        "pertanyaan": "MODUL V",
+        "jawaban_sistem": "Informasi ditemukan: [modul-pbo-2024.pdf - Hal 5]: ................................................................................................... 33 MODUL V String dan Array ............................................................................................. 34 5.1 Tujuan Pembelajaran ......................................................................................... 34 5.2 String ..................................................... | [modul-pbo-2024.pdf - Hal 6]: ................................................................................................... 50 Modul VII Inheritance ...................................................................................................... 52 7.1 Tujuan Pembelajaran ......................................................................................... 52 7.2 Inheritance atau Pewarisan ........................... | [modul-pbo-2024.pdf - Hal 47]: 34 MODUL V String dan Array 5.1 Tujuan Pembelajaran 1. Praktikan mengerti dan memahami penggunaan string dan array. 2. Praktikan mampu menggunakan beberpa operator dan method untuk string dan array. 5.2 String String merupakan tipe data untuk teks yang merupakan gabungan huruf, angka, spasi (whitespace... | [modul-pbo-2024.pdf - Hal 55]: 42 MODUL VI Konsep Object Oriented Programming 6.1 Tujuan Pembelajaran 1. Praktikan mampu memahami konsep dasar pemrograman Java. 2. Praktikan dapat membedakan arti dan pemakaian class, objek, referensi objek, method, constructor, dan beberapa modifier dalam pemrograman Java. 6.2 Pengantar Pemrograman ..."
+    },
+    {
+        "waktu": "2026-07-13 01:37:57",
+        "pertanyaan": "MODUL VI Konsep Object Oriented Programming",
+        "jawaban_sistem": "Informasi ditemukan: [modul-pbo-2024.pdf - Hal 5]: ................................................................................................... 41 MODUL VI Konsep Object Oriented Programming ........................................................ 42 6.1 Tujuan Pembelajaran ......................................................................................... 42 6.2 Pengantar Pemrograman Berorientasi Objek ..................................... | [modul-pbo-2024.pdf - Hal 55]: 42 MODUL VI Konsep Object Oriented Programming 6.1 Tujuan Pembelajaran 1. Praktikan mampu memahami konsep dasar pemrograman Java. 2. Praktikan dapat membedakan arti dan pemakaian class, objek, referensi objek, method, constructor, dan beberapa modifier dalam pemrograman Java. 6.2 Pengantar Pemrograman ..."
+    },
+    {
+        "waktu": "2026-07-13 01:37:57",
+        "pertanyaan": "MODUL VII Inheritance",
+        "jawaban_sistem": "Informasi ditemukan: [modul-pbo-2024.pdf - Hal 6]: ................................................................................................... 50 Modul VII Inheritance ...................................................................................................... 52 7.1 Tujuan Pembelajaran ......................................................................................... 52 7.2 Inheritance atau Pewarisan ........................... | [modul-pbo-2024.pdf - Hal 65]: 52 Modul VII Inheritance 7.1 Tujuan Pembelajaran 1. Praktikan mampu memahami konsep dari inheritance. 2. Praktikan dapat menerapakan kapan dan bagaimana menggunakan inheritance serta cara mengaksesnya. 7.2 Inheritance atau Pewarisan Inheritance atau Pewarisan/Penurunan adalah konsep pemrograman dimana ..."
+    },
+    {
+        "waktu": "2026-07-13 01:37:58",
+        "pertanyaan": "MODUL VIII",
+        "jawaban_sistem": "Informasi ditemukan: [modul-pbo-2024.pdf - Hal 6]: ................................................................................................... 61 Modul VIII Polimorfisme .................................................................................................. 64 8.1 Tujuan Pembelajaran ......................................................................................... 64 8.2 Konsep Polimorfisme .................................... | [modul-pbo-2024.pdf - Hal 77]: 64 Modul VIII Polimorfisme 8.1 Tujuan Pembelajaran 1. Praktikan mampu memahami konsep dari polimorfisme. 2. Praktikan dapat mengenal dan menggunakan beberapa polimorfisme yang ada pada JAVA 8.2 Konsep Polimorfisme Secara harfiah, poli berarti “banyak” dan morph berarti “bentuk”. Jadi, polimorphisme ber..."
+    },
+    {
+        "waktu": "2026-07-13 01:37:58",
+        "pertanyaan": "MODUL IX",
+        "jawaban_sistem": "Informasi ditemukan: [modul-pbo-2024.pdf - Hal 6]: ................................................................................................... 73 Modul IX Abstract dan Interface ...................................................................................... 74 9.1 Tujuan Pembelajaran ......................................................................................... 74 9.2 Abstract ................................................... | [modul-pbo-2024.pdf - Hal 87]: 74 Modul IX Abstract dan Interface 9.1 Tujuan Pembelajaran 1. Praktikan mampu membedakan abstract dan interface 2. Praktikan dapat menggunakan abstract dan interface untuk membantu menyelesaikan kasus dengan OOP di Java. 9.2 Abstract Abstract class merubahan sebuah class abstrak (class setengah jadi) y..."
+    },
+    {
+        "waktu": "2026-07-13 01:37:59",
+        "pertanyaan": "MODUL X",
+        "jawaban_sistem": "Informasi ditemukan: [modul-pbo-2024.pdf - Hal 7]: ................................................................................................... 81 Modul X Swing ................................................................................................................ 82 10.1 Tujuan Pembelajaran ..................................................................................... 82 10.2 GUI .................................................. | [modul-pbo-2024.pdf - Hal 95]: 82 Modul X Swing 10.1 Tujuan Pembelajaran 1. Praktikan mampu menggunakan GUI Swing pada pemrograman Java 2. Praktikan dapat menggunakan beberapa componen yang terdapat pada Swing Java. 10.2 GUI Pada dasarnya bahasa pemrograman java hanya dikenal dengan java console yang dimana program java ini hanya da..."
+    },
+    {
+        "waktu": "2026-07-13 01:39:31",
+        "pertanyaan": "Eloquent ORM",
+        "jawaban_sistem": "Informasi ditemukan: [01. Intoduction - PemwebLan.pdf - Hal 18]: Pemrog. Web Lanjut Kenapa harus menggunakan Laravel 12 ? 4. Eloquent ORM yang Lebih Efisien: Eloquent ORM di Laravel 12 memiliki kinerja yang lebih baik, memungkinkan query yang lebih cepat dan pengelolaan relasi antar tabel yang lebih fleksibel. 5. Fitur Baru: Laravel 12 memperkenalkan fitur baru seperti routing yang lebih fleksibel, starter kit baru dengan..."
+    },
+    {
+        "waktu": "2026-07-13 01:39:32",
+        "pertanyaan": "Database Migration",
+        "jawaban_sistem": "Informasi ditemukan: [01. Intoduction - PemwebLan.pdf - Hal 5]: ...directory Laravel 2. Memahami routing 3. Memahami konsep MVC 4. Memahami Template Engine (Blade) 5. Database Migration 6. Eloquent 7. Pagination 8. Authentication 9. Middleware"
+    },
+    {
+        "waktu": "2026-07-13 01:39:33",
+        "pertanyaan": "MODUL",
+        "jawaban_sistem": "Informasi ditemukan: [modul-pbo-2024.pdf - Hal 1]: Modul Praktikum Pemrograman Berorientasi Objek Saiful Nur Budiman S.kom., M.kom UNIVERSITAS ISLAM BALITAR FAKULTAS TEKNIK INFORMATIKA 2022/ 2023 | [modul-pbo-2024.pdf - Hal 4]: i DAFTAR ISI MODUL I Installasi Netbeans dan Setting Path ................................................................ 1 1.1 Tujuan Pembelajaran ........................................................................................... 1 1.2 Java ................................................................ | [modul-pbo-2024.pdf - Hal 5]: ................................................................................................... 24 MODUL IV Perulangan.................................................................................................... 26 4.1 Tujuan Pembelajaran ......................................................................................... 26 4.2 Looping ................................................... | [modul-pbo-2024.pdf - Hal 6]: ................................................................................................... 50 Modul VII Inheritance ...................................................................................................... 52 7.1 Tujuan Pembelajaran ......................................................................................... 52 7.2 Inheritance atau Pewarisan ..........................."
+    },
+    {
+        "waktu": "2026-07-13 01:39:33",
+        "pertanyaan": "Pemrograman Web Lanjut",
+        "jawaban_sistem": "Informasi ditemukan: [01. Intoduction - PemwebLan.pdf - Hal 1]: Pemrograman Web Lanjut 01. Introduction Saiful Nur Budiman S.Kom., M.Kom UNISBA 2024/2025 | [01. Intoduction - PemwebLan.pdf - Hal 2]: ...ajian • Kontrak Perkuliahan • Deskripsi • Capaian Pembelajaran • Evaluasi • Tata Tertib • Pengantar Pemrograman Web Lanjut • Install Laravel 12 • Install Laravel by Composer • Install Laravel Global • Install Laravel by Laragon (direkomendasikan) • Struktur Directory Laravel 12 | [01. Intoduction - PemwebLan.pdf - Hal 4]: Pemrog. Web Lanjut Deskripsi • Mata kuliah ini memberikan pengetahuan mengenai pemrograman web lanjut menggunakan Laravel, serta penerapan MVC • Diharapkan dapat memberikan pemahaman kepada mahasiswa tentang pembuatan web yang terstruktur, aman dan elegan dengan menerapkan Laravel pada project web | [01. Intoduction - PemwebLan.pdf - Hal 8]: Pengantar Pemrograman Web Lanjut"
+    },
+    {
+        "waktu": "2026-07-13 01:39:34",
+        "pertanyaan": "02",
+        "jawaban_sistem": "Informasi ditemukan: [modul-pbo-2024.pdf - Hal 1]: ...ntasi Objek Saiful Nur Budiman S.kom., M.kom UNIVERSITAS ISLAM BALITAR FAKULTAS TEKNIK INFORMATIKA 2022/ 2023 | [01. Intoduction - PemwebLan.pdf - Hal 1]: Pemrograman Web Lanjut 01. Introduction Saiful Nur Budiman S.Kom., M.Kom UNISBA 2024/2025 | [01. Intoduction - PemwebLan.pdf - Hal 16]: Pemrog. Web Lanjut Laravel 12 • Laravel 12 dirilis pada hari ini Senin, 24 Februari 2025, membawa berbagai peningkatan yang lebih berfokus pada stabilitas dan pemeliharaan. • Laravel 12 mendukung starter kit baru seperti React, Vue dan Livewire dimana setiap starter kit dikelola dalam repository Github yang terpisah. • Laravel Docs: https://laravel.com/docs/12.x/releases | [02. Basic Laravel - PemwebLan.pdf - Hal 1]: Pemrograman Web Lanjut 02. Basic Laravel Saiful Nur Budiman S.Kom., M.Kom UNISBA 2024/2025"
+    },
+    {
+        "waktu": "2026-07-13 01:39:34",
+        "pertanyaan": "03",
+        "jawaban_sistem": "Informasi ditemukan: [wildan.pdf - Hal 51]: ...245180.pdf%0Aht tps://hdl.handle.net/20.500.12380/245180%0Ahttp://dx.doi.org/10.1016/j.jsa mes.2011.03.003%0Ahttps://doi.org/10.1016/j.gr.2017.08.001%0Ahttp://dx. doi.org/10.1016/j.precamres.2014.12 Muhtadi, N. S., & Rahman, D. M. (2024). Analisis risiko kebakaran hutan dengan logika fuzzy Mamdani . Jurnal Informatika dan Teknik Elektro Terapan . https://journal.eng.unila.ac.id/index.php/jitet/art..."
+    },
+    {
+        "waktu": "2026-07-13 01:39:35",
+        "pertanyaan": "Database Migration Eloquent",
+        "jawaban_sistem": "Maaf, tidak ditemukan informasi mengenai 'Database Migration Eloquent' di dalam semua modul."
+    },
+    {
+        "waktu": "2026-07-13 01:39:35",
+        "pertanyaan": "Migration",
+        "jawaban_sistem": "Informasi ditemukan: [01. Intoduction - PemwebLan.pdf - Hal 5]: ... Laravel 2. Memahami routing 3. Memahami konsep MVC 4. Memahami Template Engine (Blade) 5. Database Migration 6. Eloquent 7. Pagination 8. Authentication 9. Middleware"
+    },
+    {
+        "waktu": "2026-07-13 01:39:36",
+        "pertanyaan": "Basic Laravel",
+        "jawaban_sistem": "Informasi ditemukan: [02. Basic Laravel - PemwebLan.pdf - Hal 1]: Pemrograman Web Lanjut 02. Basic Laravel Saiful Nur Budiman S.Kom., M.Kom UNISBA 2024/2025"
+    },
+    {
+        "waktu": "2026-07-13 01:39:37",
+        "pertanyaan": "Routing MVC Blade",
+        "jawaban_sistem": "Maaf, tidak ditemukan informasi mengenai 'Routing MVC Blade' di dalam semua modul."
+    },
+    {
+        "waktu": "2026-07-13 01:39:37",
+        "pertanyaan": "Pagination",
+        "jawaban_sistem": "Informasi ditemukan: [01. Intoduction - PemwebLan.pdf - Hal 5]: ...ing 3. Memahami konsep MVC 4. Memahami Template Engine (Blade) 5. Database Migration 6. Eloquent 7. Pagination 8. Authentication 9. Middleware | [01. Intoduction - PemwebLan.pdf - Hal 57]: ...unculkan atau disembunyikan dan juga melakukan looping dalam tampilan. header footer Main Content 1 pagination Sub Menu Main Content 2Main Content 3"
+    },
+    {
+        "waktu": "2026-07-13 01:39:38",
+        "pertanyaan": "Authentication Middleware",
+        "jawaban_sistem": "Maaf, tidak ditemukan informasi mengenai 'Authentication Middleware' di dalam semua modul."
+    },
+    {
+        "waktu": "2026-07-28 12:20:20",
+        "pertanyaan": "modul praktikum PBO materi keempat",
+        "jawaban_sistem": "Maaf, tidak ditemukan informasi mengenai 'modul praktikum PBO materi keempat' di dalam semua modul."
+    },
+    {
+        "waktu": "2026-07-28 12:26:35",
+        "pertanyaan": "modul PBO materi kelima",
+        "jawaban_sistem": "Maaf, tidak ditemukan informasi mengenai 'modul PBO materi kelima' di dalam semua modul."
+    },
+    {
+        "waktu": "2026-07-28 12:26:59",
+        "pertanyaan": "pbo2024.pdf",
+        "jawaban_sistem": "Maaf, tidak ditemukan informasi mengenai 'pbo2024.pdf' di dalam semua modul."
+    },
+    {
+        "waktu": "2026-07-28 12:27:29",
+        "pertanyaan": "modul strip pbo",
+        "jawaban_sistem": "Maaf, tidak ditemukan informasi mengenai 'modul strip pbo' di dalam semua modul."
+    },
+    {
+        "waktu": "2026-07-28 12:28:04",
+        "pertanyaan": "modul web lanjut nomor 7 database migration",
+        "jawaban_sistem": "Maaf, tidak ditemukan informasi mengenai 'modul web lanjut nomor 7 database migration' di dalam semua modul."
+    },
+    {
+        "waktu": "2026-07-28 12:31:47",
+        "pertanyaan": "modul",
+        "jawaban_sistem": "Informasi ditemukan: [modul-pbo-2024.pdf - Hal 1]: Modul Praktikum Pemrograman Berorientasi Objek Saiful Nur Budiman S.kom., M.kom UNIVERSITAS ISLAM BALITAR FAKULTAS TEKNIK INFORMATIKA 2022/ 2023 | [modul-pbo-2024.pdf - Hal 4]: i DAFTAR ISI MODUL I Installasi Netbeans dan Setting Path ................................................................ 1 1.1 Tujuan Pembelajaran ........................................................................................... 1 1.2 Java ................................................................ | [modul-pbo-2024.pdf - Hal 5]: ................................................................................................... 24 MODUL IV Perulangan.................................................................................................... 26 4.1 Tujuan Pembelajaran ......................................................................................... 26 4.2 Looping ................................................... | [modul-pbo-2024.pdf - Hal 6]: ................................................................................................... 50 Modul VII Inheritance ...................................................................................................... 52 7.1 Tujuan Pembelajaran ......................................................................................... 52 7.2 Inheritance atau Pewarisan ..........................."
+    },
+    {
+        "waktu": "2026-07-28 12:32:20",
+        "pertanyaan": "modul web lanjut",
+        "jawaban_sistem": "Maaf, tidak ditemukan informasi mengenai 'modul web lanjut' di dalam semua modul."
+    },
+    {
+        "waktu": "2026-07-28 12:46:21",
+        "pertanyaan": "03.vu.pemweblan.pdf",
+        "jawaban_sistem": "Maaf, tidak ditemukan informasi mengenai '03.vu.pemweblan.pdf' di dalam semua modul."
+    },
+    {
+        "waktu": "2026-07-28 12:46:48",
+        "pertanyaan": "Laravel basic bug error nomor 2",
+        "jawaban_sistem": "Maaf, tidak ditemukan informasi mengenai 'Laravel basic bug error nomor 2' di dalam semua modul."
+    },
+    {
+        "waktu": "2026-07-28 12:47:06",
+        "pertanyaan": "modul web lanjut",
+        "jawaban_sistem": "Maaf, tidak ditemukan informasi mengenai 'modul web lanjut' di dalam semua modul."
+    },
+    {
+        "waktu": "2026-07-28 12:47:07",
+        "pertanyaan": "pemrograman web lanjut",
+        "jawaban_sistem": "Informasi ditemukan: [01. Intoduction - PemwebLan.pdf - Hal 1]: Pemrograman Web Lanjut 01. Introduction Saiful Nur Budiman S.Kom., M.Kom UNISBA 2024/2025 | [01. Intoduction - PemwebLan.pdf - Hal 2]: ...ajian • Kontrak Perkuliahan • Deskripsi • Capaian Pembelajaran • Evaluasi • Tata Tertib • Pengantar Pemrograman Web Lanjut • Install Laravel 12 • Install Laravel by Composer • Install Laravel Global • Install Laravel by Laragon (direkomendasikan) • Struktur Directory Laravel 12 | [01. Intoduction - PemwebLan.pdf - Hal 4]: Pemrog. Web Lanjut Deskripsi • Mata kuliah ini memberikan pengetahuan mengenai pemrograman web lanjut menggunakan Laravel, serta penerapan MVC • Diharapkan dapat memberikan pemahaman kepada mahasiswa tentang pembuatan web yang terstruktur, aman dan elegan dengan menerapkan Laravel pada project web | [01. Intoduction - PemwebLan.pdf - Hal 8]: Pengantar Pemrograman Web Lanjut"
+    },
+    {
+        "waktu": "2026-07-28 12:47:08",
+        "pertanyaan": "Laravel routing MVC",
+        "jawaban_sistem": "Maaf, tidak ditemukan informasi mengenai 'Laravel routing MVC' di dalam semua modul."
+    },
+    {
+        "waktu": "2026-07-28 12:47:10",
+        "pertanyaan": "Laravel",
+        "jawaban_sistem": "Informasi ditemukan: [01. Intoduction - PemwebLan.pdf - Hal 2]: ...kripsi • Capaian Pembelajaran • Evaluasi • Tata Tertib • Pengantar Pemrograman Web Lanjut • Install Laravel 12 • Install Laravel by Composer • Install Laravel Global • Install Laravel by Laragon (direkomendasikan) • Struktur Directory Laravel 12 | [01. Intoduction - PemwebLan.pdf - Hal 4]: ...njut Deskripsi • Mata kuliah ini memberikan pengetahuan mengenai pemrograman web lanjut menggunakan Laravel, serta penerapan MVC • Diharapkan dapat memberikan pemahaman kepada mahasiswa tentang pembuatan web yang terstruktur, aman dan elegan dengan menerapkan Laravel pada project web | [01. Intoduction - PemwebLan.pdf - Hal 5]: Pemrog. Web Lanjut Capaian Pembelajaran 1. Memahami struktur directory Laravel 2. Memahami routing 3. Memahami konsep MVC 4. Memahami Template Engine (Blade) 5. Database Migration 6. Eloquent 7. Pagination 8. Authentication 9. Middleware | [01. Intoduction - PemwebLan.pdf - Hal 16]: Pemrog. Web Lanjut Laravel 12 • Laravel 12 dirilis pada hari ini Senin, 24 Februari 2025, membawa berbagai peningkatan yang lebih berfokus pada stabilitas dan pemeliharaan. • Laravel 12 mendukung starter kit baru seperti React, Vue dan Livewire dimana setiap starter kit dikelola dalam repository Github yang terpisah. ..."
+    },
+    {
+        "waktu": "2026-07-28 12:47:58",
+        "pertanyaan": "folder modul web lanjut",
+        "jawaban_sistem": "Maaf, tidak ditemukan informasi mengenai 'folder modul web lanjut' di dalam semua modul."
+    },
+    {
+        "waktu": "2026-11-08 10:30:36",
+        "pertanyaan": "summarize_document: modul-pbo-2024 1-0",
+        "jawaban_sistem": "8 poin"
+    },
+    {
+        "waktu": "2026-11-08 10:31:30",
+        "pertanyaan": "read_document: modul-pbo-2024 1-12",
+        "jawaban_sistem": "berhasil"
+    },
+    {
+        "waktu": "2026-11-08 10:31:31",
+        "pertanyaan": "read_document: modul-pbo-2024 4-16",
+        "jawaban_sistem": "berhasil"
+    },
+    {
+        "waktu": "2026-11-08 10:31:32",
+        "pertanyaan": "read_document: modul-pbo-2024 18-21",
+        "jawaban_sistem": "berhasil"
+    },
+    {
+        "waktu": "2026-11-08 10:31:33",
+        "pertanyaan": "read_document: modul-pbo-2024 22-26",
+        "jawaban_sistem": "berhasil"
+    },
+    {
+        "waktu": "2026-11-08 10:31:34",
+        "pertanyaan": "read_document: modul-pbo-2024 26-40",
+        "jawaban_sistem": "berhasil"
+    },
+    {
+        "waktu": "2026-11-08 10:31:36",
+        "pertanyaan": "read_document: modul-pbo-2024 31-40",
+        "jawaban_sistem": "berhasil"
+    },
+    {
+        "waktu": "2026-11-08 10:31:37",
+        "pertanyaan": "read_document: modul-pbo-2024 36-42",
+        "jawaban_sistem": "berhasil"
+    },
+    {
+        "waktu": "2026-11-08 10:32:53",
+        "pertanyaan": "skripsi Wildan Aziz Muhammad fuzzy Mamdani risiko kerusakan hutan",
+        "jawaban_sistem": "Maaf, tidak ditemukan informasi mengenai 'skripsi Wildan Aziz Muhammad fuzzy Mamdani risiko kerusakan hutan' di dalam semua modul."
+    },
+    {
+        "waktu": "2026-11-08 10:33:55",
+        "pertanyaan": "summarize_course: web lanjut",
+        "jawaban_sistem": "berhasil"
+    },
+    {
+        "waktu": "2026-11-08 10:34:32",
+        "pertanyaan": "summarize_document: 06. Model 1-0",
+        "jawaban_sistem": "Dokumen ini tidak memiliki teks yang bisa dibaca (kemungkinan hasil scan/gambar). Perlu OCR terlebih dahulu."
+    },
+    {
+        "waktu": "2026-11-08 10:34:34",
+        "pertanyaan": "read_document: 06. Model 1-10",
+        "jawaban_sistem": "Dokumen ini tidak memiliki teks yang bisa dibaca (kemungkinan hasil scan/gambar). Perlu OCR terlebih dahulu."
+    },
+    {
+        "waktu": "2026-11-08 10:34:35",
+        "pertanyaan": "Model Eloquent Laravel",
+        "jawaban_sistem": "Maaf, tidak ditemukan informasi mengenai 'Model Eloquent Laravel' di dalam semua modul."
+    },
+    {
+        "waktu": "2026-11-08 10:39:00",
+        "pertanyaan": "summarize_document: modul-pbo-2024 1-0",
+        "jawaban_sistem": "8 poin"
+    },
+    {
+        "waktu": "2026-11-08 10:39:02",
+        "pertanyaan": "read_document: modul-pbo-2024 1-12",
+        "jawaban_sistem": "berhasil"
+    },
+    {
+        "waktu": "2026-11-08 10:39:03",
+        "pertanyaan": "read_document: modul-pbo-2024 4-20",
+        "jawaban_sistem": "berhasil"
+    },
+    {
+        "waktu": "2026-11-08 10:39:04",
+        "pertanyaan": "read_document: modul-pbo-2024 5-8",
+        "jawaban_sistem": "berhasil"
+    },
+    {
+        "waktu": "2026-11-08 10:39:05",
+        "pertanyaan": "read_document: modul-pbo-2024 6-8",
+        "jawaban_sistem": "berhasil"
+    },
+    {
+        "waktu": "2026-11-08 10:39:06",
+        "pertanyaan": "read_document: modul-pbo-2024 7-9",
+        "jawaban_sistem": "berhasil"
+    },
+    {
+        "waktu": "2026-11-08 10:40:13",
+        "pertanyaan": "summarize_document: 09. Model Factories 1-0",
+        "jawaban_sistem": "Dokumen ini tidak memiliki teks yang bisa dibaca (kemungkinan hasil scan/gambar). Perlu OCR terlebih dahulu."
+    },
+    {
+        "waktu": "2026-11-08 10:40:14",
+        "pertanyaan": "read_document: 09. Model Factories 1-10",
+        "jawaban_sistem": "Dokumen ini tidak memiliki teks yang bisa dibaca (kemungkinan hasil scan/gambar). Perlu OCR terlebih dahulu."
+    },
+    {
+        "waktu": "2026-11-08 11:18:26",
+        "pertanyaan": "summarize_document: 9 1-0",
+        "jawaban_sistem": "6 poin"
+    },
+    {
+        "waktu": "2026-11-08 11:18:58",
+        "pertanyaan": "read_document: Model Factories 1-19",
+        "jawaban_sistem": "berhasil"
+    },
+    {
+        "waktu": "2026-11-08 11:19:00",
+        "pertanyaan": "read_document: Model Factories 9-19",
+        "jawaban_sistem": "berhasil"
+    },
+    {
+        "waktu": "2026-11-08 11:20:19",
+        "pertanyaan": "read_document: Model Factories 12-19",
+        "jawaban_sistem": "berhasil"
+    }
+]
