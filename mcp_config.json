@@ -14,6 +14,13 @@
       "type": "http",
       "url": "https://api.example.com/mcp",
       "disabled": true
+    },
+    "home-assistant": {
+      "type": "http",
+      "url": "http://192.168.100.17:8123/api/mcp/assist",
+      "headers": {
+        "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI5ZjJiZDVlYjFjZmE0Yzk1YmMzNWI3YjBjNzU1MzZlOSIsImlhdCI6MTc5NDM2ODQxMCwiZXhwIjoyMTA5NzI4NDEwfQ.xYcdmrggDsQz0TOdNR4evm6Yq74FuxW-NVD7jfm1kXg"
+      }
     }
   }
 }

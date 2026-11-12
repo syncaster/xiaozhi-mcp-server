@@ -21,6 +21,7 @@ import os
 import re
 import sys
 import threading
+
 from collections import Counter
 from datetime import datetime
 
@@ -691,6 +692,20 @@ try:
 except Exception as e:
     logger.warning(f"Tool musik tidak aktif: {type(e).__name__}: {e}")
 
+try:
+    import wiz_lamp
+    wiz_lamp.register(mcp)
+    logger.info("Tool lampu pintar WiZ aktif: matikan_lampu_pintar, nyala_lampu_pintar, status_lampu_pintar")
+except Exception as e:
+    logger.warning(f"Tool lampu pintar WiZ tidak aktif: {type(e).__name__}: {e}")
+
+try:
+    import ha_tuya
+    ha_tuya.register(mcp)
+    logger.info("Tool perangkat Tuya (Home Assistant) aktif")
+except Exception as e:
+    logger.warning(f"Tool perangkat Tuya tidak aktif: {type(e).__name__}: {e}")
+    
 try:
     import web_google
     web_google.register(mcp)

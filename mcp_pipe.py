@@ -33,13 +33,28 @@ from dotenv import load_dotenv
 # Auto-load environment variables from a .env file if present
 load_dotenv()
 
+# Perbaiki SSL_CERT_FILE yang menunjuk ke file yang tidak ada. Jika dibiarkan, httpx (dipakai
+# mcp_proxy dan fastmcp) langsung crash dengan FileNotFoundError. Proses anak mewarisi perbaikan ini.
+_cert = os.environ.get("SSL_CERT_FILE")
+if _cert and not os.path.exists(_cert):
+    try:
+        import certifi
+        os.environ["SSL_CERT_FILE"] = certifi.where()
+    except Exception:
+        os.environ.pop("SSL_CERT_FILE", None)
+
 # Configure logging
 logging.basicConfig(
-    # level=logging.INFO,
-    level=logging.DEBUG,
+    level=logging.INFO,
+    # level=logging.DEBUG,  # JANGAN dipakai saat berbagi log: mencetak token di URL websocket
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
 )
 logger = logging.getLogger('MCP_PIPE')
+
+
+def _mask_cmd(cmd):
+    """Ganti nilai header setelah '-H <nama>' dengan *** agar token tidak tercetak di log."""
+    return ["***" if i >= 2 and cmd[i - 2] == "-H" else c for i, c in enumerate(cmd)]
 
 # Reconnection settings
 INITIAL_BACKOFF = 1  # Initial wait time in seconds
@@ -82,7 +97,7 @@ async def connect_to_server(uri, target):
                 text=True,
                 env=env
             )
-            logger.info(f"[{target}] Started server process: {' '.join(cmd)}")
+            logger.info(f"[{target}] Started server process: {' '.join(_mask_cmd(cmd))}")
             
             # Create two tasks: read from WebSocket and write to process, read from process and write to WebSocket
             await asyncio.gather(

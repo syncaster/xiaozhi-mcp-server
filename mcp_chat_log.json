@@ -3,5 +3,20 @@
         "waktu": "2026-11-08 13:07:10",
         "pertanyaan": "summarize_document: 1 1-0",
         "jawaban_sistem": "6 poin"
+    },
+    {
+        "waktu": "2026-11-11 10:45:14",
+        "pertanyaan": "summarize_document: 02 1-0",
+        "jawaban_sistem": "Ada beberapa dokumen yang cocok: 02. Basic Laravel (Bug Error) - PemwebLan.pdf, 02. Basic Laravel - PemwebLan.pdf. Sebutkan salah satunya dengan lebih jelas."
+    },
+    {
+        "waktu": "2026-11-11 10:45:16",
+        "pertanyaan": "summarize_document: 02. Basic Laravel - PemwebLan.pdf 1-0",
+        "jawaban_sistem": "'02. Basic Laravel - PemwebLan.pdf' adalah mata kuliah dengan 11 dokumen: 01. Intoduction - PemwebLan.pdf, 02. Basic Laravel (Bug Error) - PemwebLan.pdf, 02. Basic Laravel - PemwebLan.pdf, 03. View - Install Tailwind - PemwebLan.pdf, 03. View - PemwebLan.pdf, 04. Blade Engine - PemwebLan.pdf, 05. View Data - PemwebLan.pdf, 06. Model - PemwebLan .pdf, 07. Database Migration - PemwebLan.pdf, 08. Eloquent ORM.pdf, 09. Model Factories.pdf. Sebutkan dokumennya, atau minta ringkasan seluruh mata kuliah."
+    },
+    {
+        "waktu": "2026-11-11 10:45:17",
+        "pertanyaan": "summarize_document: Basic Laravel 1-0",
+        "jawaban_sistem": "6 poin"
     }
 ]
